@@ -4,7 +4,7 @@ var config = {
   showMarkers: true,
   theme: 'dark',
   alignment: 'left',
-  title: 'Interactive: How are the UI’s peer insitutions reacting to the COVID-19 outbreak?',
+  title: 'Interactive: How are the UI’s peer institutions reacting to the COVID-19 outbreak?',
   subtitle: '',
   byline: 'The Daily Iowan',
   footer: 'Created by Aadit Tambe/The Daily Iowan',
